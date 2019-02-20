@@ -1,4 +1,4 @@
-# Affirmation task
+# Control task
 
 **Cited Papers as of April 24th 2016**:
 
